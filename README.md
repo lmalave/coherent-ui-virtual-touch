@@ -74,4 +74,4 @@ In addition, the class actually draws the line of the raytrace to give clear vis
 * Better visual representation for raytrace than using DrawDebugLine (something like a translucent glowing ray)
 * More robust vertical scrolling gesture (right now it's a bit slow)
 * Additional gestures?  
-
+* Porting same idea to Unity? 
